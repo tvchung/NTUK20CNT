@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson02_NhapXuat/1.0.0": {
+        "runtime": {
+          "Lesson02_NhapXuat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson02_NhapXuat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
