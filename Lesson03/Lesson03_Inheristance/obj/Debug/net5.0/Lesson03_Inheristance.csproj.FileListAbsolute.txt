@@ -1,0 +1,16 @@
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\bin\Debug\net5.0\Lesson03_Inheristance.exe
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\bin\Debug\net5.0\Lesson03_Inheristance.deps.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\bin\Debug\net5.0\Lesson03_Inheristance.runtimeconfig.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\bin\Debug\net5.0\Lesson03_Inheristance.runtimeconfig.dev.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\bin\Debug\net5.0\Lesson03_Inheristance.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\bin\Debug\net5.0\ref\Lesson03_Inheristance.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\bin\Debug\net5.0\Lesson03_Inheristance.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.csprojAssemblyReference.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.GeneratedMSBuildEditorConfig.editorconfig
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.AssemblyInfoInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.AssemblyInfo.cs
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.csproj.CoreCompileInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\ref\Lesson03_Inheristance.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_Inheristance\obj\Debug\net5.0\Lesson03_Inheristance.genruntimeconfig.cache

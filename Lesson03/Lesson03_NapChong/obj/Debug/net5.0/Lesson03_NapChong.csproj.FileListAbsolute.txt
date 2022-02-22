@@ -1,0 +1,16 @@
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\bin\Debug\net5.0\Lesson03_NapChong.exe
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\bin\Debug\net5.0\Lesson03_NapChong.deps.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\bin\Debug\net5.0\Lesson03_NapChong.runtimeconfig.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\bin\Debug\net5.0\Lesson03_NapChong.runtimeconfig.dev.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\bin\Debug\net5.0\Lesson03_NapChong.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\bin\Debug\net5.0\ref\Lesson03_NapChong.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\bin\Debug\net5.0\Lesson03_NapChong.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.csprojAssemblyReference.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.GeneratedMSBuildEditorConfig.editorconfig
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.AssemblyInfoInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.AssemblyInfo.cs
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.csproj.CoreCompileInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\ref\Lesson03_NapChong.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson03\Lesson03_NapChong\obj\Debug\net5.0\Lesson03_NapChong.genruntimeconfig.cache
