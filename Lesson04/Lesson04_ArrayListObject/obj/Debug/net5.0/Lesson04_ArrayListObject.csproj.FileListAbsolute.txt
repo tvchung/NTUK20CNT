@@ -1,0 +1,16 @@
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\bin\Debug\net5.0\Lesson04_ArrayListObject.exe
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\bin\Debug\net5.0\Lesson04_ArrayListObject.deps.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\bin\Debug\net5.0\Lesson04_ArrayListObject.runtimeconfig.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\bin\Debug\net5.0\Lesson04_ArrayListObject.runtimeconfig.dev.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\bin\Debug\net5.0\Lesson04_ArrayListObject.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\bin\Debug\net5.0\ref\Lesson04_ArrayListObject.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\bin\Debug\net5.0\Lesson04_ArrayListObject.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.csprojAssemblyReference.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.AssemblyInfoInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.AssemblyInfo.cs
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.csproj.CoreCompileInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\ref\Lesson04_ArrayListObject.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04_ArrayListObject\obj\Debug\net5.0\Lesson04_ArrayListObject.genruntimeconfig.cache

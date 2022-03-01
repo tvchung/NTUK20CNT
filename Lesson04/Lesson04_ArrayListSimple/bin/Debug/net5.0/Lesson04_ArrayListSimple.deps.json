@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson04_ArrayListSimple/1.0.0": {
+        "runtime": {
+          "Lesson04_ArrayListSimple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson04_ArrayListSimple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

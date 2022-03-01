@@ -1,0 +1,16 @@
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\bin\Debug\net5.0\Lesson04.exe
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\bin\Debug\net5.0\Lesson04.deps.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\bin\Debug\net5.0\Lesson04.runtimeconfig.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\bin\Debug\net5.0\Lesson04.runtimeconfig.dev.json
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\bin\Debug\net5.0\Lesson04.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\bin\Debug\net5.0\ref\Lesson04.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\bin\Debug\net5.0\Lesson04.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.csprojAssemblyReference.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.GeneratedMSBuildEditorConfig.editorconfig
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.AssemblyInfoInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.AssemblyInfo.cs
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.csproj.CoreCompileInputs.cache
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\ref\Lesson04.dll
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.pdb
+C:\devmaster.edu.vn\NTUK20CNT\NTUK20CNT\Lesson04\Lesson04\obj\Debug\net5.0\Lesson04.genruntimeconfig.cache
